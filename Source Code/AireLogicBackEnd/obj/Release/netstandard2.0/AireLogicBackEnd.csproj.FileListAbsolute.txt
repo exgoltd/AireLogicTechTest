@@ -1,0 +1,7 @@
+C:\Users\Tom\Desktop\AireLogic Test\Repo\AireLogicTechTest\AireLogicBackEnd\bin\Release\netstandard2.0\AireLogicBackEnd.deps.json
+C:\Users\Tom\Desktop\AireLogic Test\Repo\AireLogicTechTest\AireLogicBackEnd\bin\Release\netstandard2.0\AireLogicBackEnd.dll
+C:\Users\Tom\Desktop\AireLogic Test\Repo\AireLogicTechTest\AireLogicBackEnd\bin\Release\netstandard2.0\AireLogicBackEnd.pdb
+C:\Users\Tom\Desktop\AireLogic Test\Repo\AireLogicTechTest\AireLogicBackEnd\obj\Release\netstandard2.0\AireLogicBackEnd.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\AireLogic Test\Repo\AireLogicTechTest\AireLogicBackEnd\obj\Release\netstandard2.0\AireLogicBackEnd.AssemblyInfo.cs
+C:\Users\Tom\Desktop\AireLogic Test\Repo\AireLogicTechTest\AireLogicBackEnd\obj\Release\netstandard2.0\AireLogicBackEnd.dll
+C:\Users\Tom\Desktop\AireLogic Test\Repo\AireLogicTechTest\AireLogicBackEnd\obj\Release\netstandard2.0\AireLogicBackEnd.pdb
